@@ -123,13 +123,13 @@ Notes:<br>
 # Resources
 
 * Writing to BigQuery<br>
-(https://beam.apache.org/documentation/io/built-in/google-bigquery/)[https://beam.apache.org/documentation/io/built-in/google-bigquery/]
+[https://beam.apache.org/documentation/io/built-in/google-bigquery/](https://beam.apache.org/documentation/io/built-in/google-bigquery/)
 * BigQuery data limitations<br>
-(https://cloud.google.com/bigquery/docs/loading-data-cloud-storage-json#limitations)[https://cloud.google.com/bigquery/docs/loading-data-cloud-storage-json#limitations]
+[https://cloud.google.com/bigquery/docs/loading-data-cloud-storage-json#limitations](https://cloud.google.com/bigquery/docs/loading-data-cloud-storage-json#limitations)
 * Loading nested and repeated JSON data<br>
-(https://cloud.google.com/bigquery/docs/loading-data-cloud-storage-json#loading_nested_and_repeated_json_data)[https://cloud.google.com/bigquery/docs/loading-data-cloud-storage-json#loading_nested_and_repeated_json_data]
+[https://cloud.google.com/bigquery/docs/loading-data-cloud-storage-json#loading_nested_and_repeated_json_data](https://cloud.google.com/bigquery/docs/loading-data-cloud-storage-json#loading_nested_and_repeated_json_data)
 * Passing values/parameters to the API<br>
-(https://stackoverflow.com/questions/65582147/apache-beam-pipeline-to-read-from-rest-api-runs-locally-but-not-on-dataflow)[https://stackoverflow.com/questions/65582147/apache-beam-pipeline-to-read-from-rest-api-runs-locally-but-not-on-dataflow]
+[https://stackoverflow.com/questions/65582147/apache-beam-pipeline-to-read-from-rest-api-runs-locally-but-not-on-dataflow](https://stackoverflow.com/questions/65582147/apache-beam-pipeline-to-read-from-rest-api-runs-locally-but-not-on-dataflow)
 
 # Warranty
 
